@@ -2406,7 +2406,7 @@ textarea.form-control-lg {
   height: 0.5rem;
   color: transparent;
   cursor: pointer;
-  background-color: #dee2e6;
+  background-color: #b2d396;
   border-color: transparent;
   border-radius: 1rem;
 }
@@ -2414,10 +2414,10 @@ textarea.form-control-lg {
   pointer-events: none;
 }
 .form-range:disabled::-webkit-slider-thumb {
-  background-color: #adb5bd;
+  background-color: #b2d396;
 }
 .form-range:disabled::-moz-range-thumb {
-  background-color: #adb5bd;
+  background-color:#b2d396;
 }
 
 .form-floating {
